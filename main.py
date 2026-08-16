@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ========== CONFIG ==========
-PARQUET_URL = "https://filetolink2bot-0944e29c8e8c.herokuapp.com/dl/6a8180009cdecd60f30f383f"
+PARQUET_URL = "https://filetolink2bot-0944e29c8e8c.herokuapp.com/dl/6a81a5fc9cdecd60f30f3a1f"
 PARQUET_FILE = "/tmp/users.parquet"
 DB_FILE = "/tmp/cache.duckdb"
 
